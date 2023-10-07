@@ -1,7 +1,11 @@
 
  # Telangana Government Growth Analysis
 
- Description:
+ ![image](https://github.com/Rajshree2524/PowerBi_Telangana/assets/137636886/6f7e3599-c793-4a81-a11e-54aa37e6ebb6)
+
+
+![image](https://github.com/Rajshree2524/PowerBi_Telangana/assets/137636886/8a7b1726-c6cd-4e69-ba8e-910fa135d9ed)
+
 This GitHub repository contains a comprehensive analysis of the growth of the Telangana Government across various factors, including Stamp Registration, Transportation, and TS-Ipass datasets. This project was undertaken with the aim of providing insights and data-driven recommendations to support the government's decision-making process.
 
 Key Objectives:
